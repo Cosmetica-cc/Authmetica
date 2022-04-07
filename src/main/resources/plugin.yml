@@ -1,0 +1,6 @@
+name: Authmetica
+version: '${project.version}'
+main: cc.cosmetica.authmetica.Authmetica
+authors: [ eyezah ]
+description: User authentication plugin for Cosmetica
+website: cosmetica.cc
